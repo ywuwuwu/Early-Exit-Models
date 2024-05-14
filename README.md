@@ -21,3 +21,4 @@
 
 
 ![Early Exit --- Fig. 7 in 1st survey paper](Y_Matsubara_et_al.png)
+**Early Exit inference model from Fig.7 in Split Computing and Early Exiting for Deep Learning Applications: Survey and Research Challenges, YOSHITOMO MATSUBARA and MARCO LEVORATO, University of California, Irvine, USA, FRANCESCO RESTUCCIA, Northeastern University, USA**
