@@ -19,3 +19,5 @@
 | Row 2 Col 1 | Text without line break | Row 2 Col 3 |
 
 
+
+![Early Exit --- Fig. 7 in 1st survey paper](Y. Matsubara et al..png)
