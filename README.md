@@ -20,4 +20,4 @@
 
 
 
-![Early Exit --- Fig. 7 in 1st survey paper](Y. Matsubara et al..png)
+![Early Exit --- Fig. 7 in 1st survey paper]( Y. Matsubara et al..png)
