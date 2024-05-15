@@ -13,10 +13,13 @@
 
 # Early-Exit-Models in Federated Settings
 
-| Header 1    | Header 2                | Header 3    |
+| Papers   | code               | Comments    |
 |-------------|-------------------------|-------------|
 | 1. [Federated Learning for Cooperative Inference Systems: The Case of Early Exit Networks](https://arxiv.org/abs/2405.04249) |       | Cooperative Inference Systems settings |
 | Row 2 Col 1 | Text without line break | Row 2 Col 3 |
+
+
+# Knowledge Distillation in Early-Exit-Models
 
 
 
