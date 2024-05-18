@@ -12,26 +12,26 @@
 | 6.[Resource Management in Mobile Edge Computing: A Comprehensive Survey](https://dl.acm.org/doi/pdf/10.1145/3589639) | | |
 
 
-| Papers   | code               | Comments   | 
+| Papers       | code                    | Comments   | 
 |-------------|-------------------------|-------------|
 | 1. [BranchyNet: Fast Inference via Early Exiting from Deep Neural Networks](https://arxiv.org/abs/1709.01686)| [Official Code](https://gitlab.com/kunglab/branchynet)<br>[code](https://github.com/gorakraj/earlyexit_onnx/tree/master/Networks/6.%20BranchyNet)      | Fundamental  Paper |
 | 2.[Distributed Deep Neural Networks over the Cloud, the Edge and End Devices](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7979979) | [Offical Code](https://github.com/kunglab/ddnn) | Follow up work, node-edge-cloud setting|
-| 3.[Multi-Scale Dense Networks for Resource Efficient Image Classification](https://arxiv.org/pdf/1703.09844) | []() | MSDNet(ICLR)|
+| 3.[Multi-Scale Dense Networks for Resource Efficient Image Classification](https://arxiv.org/pdf/1703.09844) | [Official Code](https://github.com/gaohuang/MSDNet)<br>[pytorch](https://github.com/kalviny/MSDNet-PyTorch) | MSDNet(ICLR)|
 | 4.[Branchy-GNN: a Device-Edge Co-Inference Framework for Efficient Point Cloud Processing](https://arxiv.org/abs/2011.02422) | [Offical Code](https://github.com/shaojiawei07/Branchy-GNN) | GNN|
 | 5.[EdgeKE: An On-Demand Deep Learning IoT System for Cognitive Big Data on Industrial Edge Devices](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9294146) | [Offical Code](https://github.com/fangvv/EdgeKE) | knowledge distillation, early exit to meet latency or accuracy requirements|
 | 6.[SPINN: Synergistic Progressive Inference of Neural Networks over Device and Cloud](https://arxiv.org/pdf/2008.06402) | []() | run-time scheduler(Mobicom)|
 | 7.[FlexDNN: Input-Adaptive On-Device Deep Learning for Efficient Mobile Vision](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9355785) | []() | |
 | 8.[Boomerang: On-demand cooperative deep neural network inference for edge intelligence on the industrial internet of things](https://ieeexplore.ieee.org/abstract/document/8863733) | | |
-| 9.[Early-exit deep neural networks for distorted images: providing an efficient edge offloading](https://arxiv.org/pdf/2108.09343) | []() |early-exit DNN with expert branches  |
+| 9.[Early-exit deep neural networks for distorted images: providing an efficient edge offloading](https://arxiv.org/pdf/2108.09343) | [Offical Code](https://github.com/pachecobeto95/distortion_robust_dnns_with_early_exit) |early-exit DNN with expert branches  |
 | 10.[FrameExit: Conditional Early Exiting for Efficient Video Recognition](https://arxiv.org/pdf/2104.13400) | [Offical Code](https://github.com/Qualcomm-AI-research/FrameExit) | gating module (CVPR)|
 | 11.[BERxiT: Early exiting for BERT with better fine-tuning and extension to regression](https://aclanthology.org/2021.eacl-main.8.pdf) | [Offical Code](https://github.com/castorini/berxit) | (ACL)|
 | 12.[A lightweight collaborative deep neural network for the mobile web in edge cloud](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9286558) | []() | Binary neural network branch |
 | 13.[A Lightweight Collaborative Recognition System with Binary Convolutional Neural Network for Mobile Web Augmented Reality](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8884895) | []() | Binary neural network branch |
 | 14.[DNN Inference Acceleration with Partitioning and Early Exiting in Edge Computing](https://dl.acm.org/doi/10.1007/978-3-030-85928-2_37) | []() | |
 | 15.[Edge Intelligence: On-Demand Deep Learning Model Co-Inference with Device-Edge Synergy (Edgent)](https://arxiv.org/pdf/1806.07840) <br>[Edge AI: On-Demand Accelerating Deep Neural Network Inference via Edge Computing](https://arxiv.org/pdf/1910.05316) | []() | partitions DNN computation between mobile and edge server based on the available bandwidth|
-| 16.[Improved Techniques for Training Adaptive Deep Networks](https://arxiv.org/pdf/1908.06294) | []() | (ICCV)|
+| 16.[Improved Techniques for Training Adaptive Deep Networks](https://arxiv.org/pdf/1908.06294) | [Offical Code](https://github.com/kalviny/IMTA) | (ICCV)|
 | 17.[Learning Anytime Predictions in Neural Networks via Adaptive Loss Balancing](https://arxiv.org/pdf/1708.06832) | []() | (AAAI)|
-| 18.[Learning to Stop While Learning to Predict](https://arxiv.org/pdf/2006.05082) | []() | (ICML)|
+| 18.[Learning to Stop While Learning to Predict](https://arxiv.org/pdf/2006.05082) | [Offical Code](https://github.com/xinshi-chen/l2stop) | (ICML)|
 | 19.[DeepAdapter: A Collaborative Deep Learning Framework for the Mobile Web Using Context-Aware Network Pruning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9155379) | []() | Follow up work of Edgent, online inference|
 | 20.[Branching in Deep Networks for Fast Inference](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9054209) | []() | |
 | 21.[Accelerating on-device DNN inference during service outage through scheduling early exit](https://www.sciencedirect.com/science/article/pii/S0140366420318818) | []() | |
@@ -60,7 +60,7 @@
 | 44.[Channel-Adaptive Early Exiting using Reinforcement Learning for Multivariate Time Series Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10459930) | []() | |
 | 45.[SplitEE: Early Exit in Deep Neural Networks with Split Computing](https://arxiv.org/abs/2309.09195) | [Offical Code](https://github.com/Div290/SplitEE/blob/main/README.md) | |
 | 46.[Branchy Deep Learning Based Real-Time Defect Detection Under Edge-Cloud Fusion Architecture](https://ieeexplore.ieee.org/abstract/document/10149362) | []() | |
-| 47.[Joint multi-user DNN partitioning and task offloading in mobile edge computin](https://www.sciencedirect.com/science/article/pii/S1570870523000768) | []() | |
+| 47.[Joint multi-user DNN partitioning and task offloading in mobile edge computing](https://www.sciencedirect.com/science/article/pii/S1570870523000768) | []() | |
 | 48.[Resource-aware Deployment of Dynamic DNNs over Multi-tiered Interconnected Systems](https://arxiv.org/abs/2404.08060) | []() | |
 | 49.[Edge Computing with Early Exiting for Adaptive Inference in Mobile Autonomous Systems](https://iris.polito.it/retrieve/e943f733-907f-4746-bbc1-3952a7ce945e/a495-angelucci%20final.pdf) | []() | |
 
